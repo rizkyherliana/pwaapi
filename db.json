@@ -1,9 +1,26 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
+  "products": [
+    {"id":1," name":"Bison, american","category":"Fuscia"},
+{"id":2," name":"Cape white-eye","category":"Yellow"},
+{"id":3," name":"Ferruginous hawk","category":"Goldenrod"},
+{"id":4," name":"Marten, american","category":"Fuscia"},
+{"id":5," name":"Gerenuk","category":"Mauv"},
+{"id":6," name":"Tayra","category":"Khaki"},
+{"id":7," name":"Crab (unidentified)","category":"Puce"},
+{"id":8," name":"Seal, harbor","category":"Orange"},
+{"id":9," name":"Blue duck","category":"Turquoise"},
+{"id":10," name":"Hartebeest, red","category":"Maroon"},
+{"id":11," name":"African elephant","category":"Maroon"},
+{"id":12," name":"South American meadowlark (unidentified)","category":"Teal"},
+{"id":13," name":"Snake, buttermilk","category":"Orange"},
+{"id":14," name":"Drongo, fork-tailed","category":"Crimson"},
+{"id":15," name":"Frilled dragon","category":"Green"},
+{"id":16," name":"Rat, white-faced tree","category":"Aquamarine"},
+{"id":17," name":"Gazelle, grant's","category":"Turquoise"},
+{"id":18," name":"Phalarope, red","category":"Khaki"},
+{"id":19," name":"Crested barbet","category":"Turquoise"},
+{"id":20," name":"Australian pelican","category":"Mauv"}]
+  ,
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
